@@ -1,6 +1,6 @@
 # Twains IP Sniffer
 - Source of Twains IP Sniffer
-Instagram: @sprx.sh
-Discord: SQLFail#6868
+Instagram: @bashfile
+Discord: Cosmic#1337
 
 ![EBomb](https://i.imgur.com/SQIfdKo.png)
